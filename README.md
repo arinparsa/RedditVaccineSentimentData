@@ -1,1 +1,3 @@
 # RedditVaccineSentimentData
+
+This data was scraped from the subreddit r/Vaccine from June 9th, 2019 to June 9th, 2024. These entries were scraped based on the keywords "vaccine", "covid", "flu", "influenza", "covid-19", "COVID", "COVID-19", "coronavirus", "corona", "MMR", "measles", "HPV", "rubella", "mumps", "polio", "hepatitis", "HIV", "rabies", "tetanus", "meningitis", "diptheria", "pandemic", "vaccinate", "vaccination", "immunize", "immunization", "dose", "antigen", "antibody", "anti-vax", "anti-vaxx", "anti-vaccine", "side effect", "contagious", "herd immunity", "CDC", "FDA", and "teen."
